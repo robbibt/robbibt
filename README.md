@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ ![DEA Coastlines](https://github.com/GeoscienceAustralia/dea-coastlines/blob/develop/visualisation/images/DEACoastlines_header.gif)
+ 
 <!--
 **robbibt/robbibt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
