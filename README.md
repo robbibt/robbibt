@@ -4,7 +4,7 @@
 <h3 align="left">Coastal Earth Observation Scientist 🛰️🌏🌊</h3>
 
 - 🏢 Work in Geoscience Australia's **[Digital Earth Australia](https://www.dea.ga.gov.au/)** program
-- 🛰️ Using **satellite data**, **data science**, and **data visualisation** to better understand our changing planet
+- 🛰️ Using **satellite data**, **geospatial**, **data science**, and **data visualisation** to map our changing planet
 - 👨‍💻 Expertise in **scientific computing** in **Python** and **R** (`xarray`, `pandas`, `opendatacube`, `scipy`, `numpy`, `tidyverse`)
 - 🌊 Developer of the **[Digital Earth Australia Coastlines](https://maps.dea.ga.gov.au/story/DEACoastlines)**, **[DE Africa Coastlines](https://maps.digitalearth.africa/story/DEAfricaCoastlines)** and **[DEA Intertidal](https://maps.dea.ga.gov.au/story/DEAIntertidal)** coastal change datasets
 - 🏞️ Amateur **nature photographer** and **cartographer** at **[Earth Art Australia](https://www.etsy.com/shop/EarthArtAustralia)**
