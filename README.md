@@ -1,7 +1,12 @@
 ![DEA Coastlines](https://github.com/GeoscienceAustralia/dea-coastlines/blob/develop/visualisation/images/DEACoastlines_header.gif)
- 
-<h1 align="left" id="macropower-title">:wave: Hi, I'm Robbi</h1>
-<h3 align="left">Coastal Earth Observation Scientist 🛰️🌏🌊</h3>
+
+<h1 align="left" id="macropower-title">Robbi Bishop-Taylor 🛰️🌏🌊</h1>
+
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-1533-2599&color=green&logo=orcid)](https://orcid.org/0000-0002-1533-2599)
+[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&logo=google-scholar)](https://scholar.google.com.au/citations?user=iutCriAAAAAJ&hl=en&oi=sra)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin)](https://www.linkedin.com/in/satellitesci/)
+
+<h3 align="left">Coastal Earth Observation Scientist</h3>
 
 - 🏢 Work in Geoscience Australia's **[Digital Earth Australia](https://www.dea.ga.gov.au/)** program
 - 🌏 Using **satellite data**, **geospatial**, **data science**, and **data visualisation** to map our changing planet
